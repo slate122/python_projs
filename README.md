@@ -18,12 +18,9 @@ The game follows standard Blackjack rules and is playable entirely in the termin
    ```bash
    python BlackjackSim-annotated.py
 3. Follow the prompts to play against the dealer:
-
   - Type h to hit (draw another card).
   - Type s to stay (end your turn).
-
 4. The game will automatically handle Ace logic (11 becomes 1 if it prevents a bust).
-
 5. You’ll be asked if you want to play again after each round.
 ---
 ## 📦 Features
@@ -42,11 +39,7 @@ This project was created as a first hands-on exercise in Python. It was a way to
   - Handle edge cases and game logic
   - Work with lists, dictionaries, and loops
   - Explore how card games can be implemented with basic tools
----
-## 📁 File Structure
-python_projs/
-├── BlackjackSim-annotated.py     # Main game script
-└── README.md                     # You're here!
+
 ---
 ## 🚀 Future Improvements (for fun)
   - Implement split and double down options
