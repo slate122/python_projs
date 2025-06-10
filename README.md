@@ -25,35 +25,35 @@ The game follows standard Blackjack rules and is playable entirely in the termin
 4. The game will automatically handle Ace logic (11 becomes 1 if it prevents a bust).
 
 5. You’ll be asked if you want to play again after each round.
-
-##📦 Features
+---
+## 📦 Features
   - Shuffled deck of 52 cards, including suits and face cards.
   - Ace handling (11 becomes 1 if it prevents a bust).
   - Dealer logic according to Blackjack rules (hits until 17+).
   - Blackjack and bust detection.
   - Replay functionality.
-
-##🛠️ Requirements
+---
+## 🛠️ Requirements
   - Python 3.x (no external libraries needed — uses only the random module)
-
-##🧠 Motivation
+---
+## 🧠 Motivation
 This project was created as a first hands-on exercise in Python. It was a way to:
   - Practice structuring a procedural program
   - Handle edge cases and game logic
   - Work with lists, dictionaries, and loops
   - Explore how card games can be implemented with basic tools
-
-##📁 File Structure
+---
+## 📁 File Structure
 python_projs/
 ├── BlackjackSim-annotated.py     # Main game script
 └── README.md                     # You're here!
-
-##🚀 Future Improvements (for fun)
+---
+## 🚀 Future Improvements (for fun)
   - Implement split and double down options
   - Add betting and bankroll system
   - GUI version using tkinter or a web version with Flask
   - Multiplayer support
-
-##📜 License
+---
+## 📜 License
 
 This project is open-source and free to use.
