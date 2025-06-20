@@ -11,6 +11,13 @@ This repository contains a collection of Python projects I’ve created to pract
 - Features card shuffling, Ace value logic, dealer AI, and user interaction.
 - A beginner-friendly project to practice loops, conditionals, and basic data structures.
 
+
+### Escape Game CLI
+- A text-based escape room game you play in your terminal.
+- Explore rooms, collect items, survive a clown encounter, and try to escape by solving a code puzzle.  
+  Features inventory management, branching choices, and atmospheric slow-typing narration.
+- A beginner-friendly Python project for practicing functions, loops, global state, and modular design.
+
 *(More projects will be added over time.)*
 
 ---
