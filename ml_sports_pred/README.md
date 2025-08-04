@@ -115,21 +115,11 @@ warnings
 4. Push to branch (`git push origin feature/improvement`)
 5. Create a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - [Football-Data.co.uk](https://www.football-data.co.uk/) for providing comprehensive historical football data
 - The scikit-learn community for excellent machine learning tools
 - Sports analytics research community for methodology insights
-
-## 📞 Contact
-
-Your Name - [your.email@example.com](mailto:your.email@example.com)
-
-Project Link: [https://github.com/yourusername/sports-prediction-model](https://github.com/yourusername/sports-prediction-model)
 
 ---
 
